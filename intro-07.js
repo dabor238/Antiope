@@ -11,7 +11,8 @@ $(function ($) {
 		if( !device.tablet() && !device.mobile() ) {
 
 			/* plays the BG Vimeo video if non-mobile device is detected*/ 
-			$.okvideo({ source: '31241154', //set your vimeo video source here
+            $.okvideo({
+                source: '248164358', //set your vimeo video source here
 		                    loop: true,
 		                    hd:true, 
 		                    adproof: true,
