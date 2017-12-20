@@ -1,0 +1,131 @@
+/*FONTS.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Author: Designova.*/
+/* Website: http://www.designova.net */
+/* Copyright: (C) 2013 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* CUSTOM FONTS ARE DEFINED HERE VIA CSS3 FONT-FACE TECHNOLOGY*/
+/* More info : http://www.littleboxofideas.com/blog/tutorials/how-do-i-implement-font-face */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------*/
+/* Font: Montserrat Family */
+/* Source: Google Web Fonts Library */
+/* License Type: GPL */
+/*--------------------------------------------------------*/
+@font-face{ 
+font-family:"MontserratBold";
+src: url("montserrat-bold-webfont.eot.eot"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-bold-webfont.eot.eot*/); 
+src: 
+url("montserrat-bold-webfont.eot.woff"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-bold-webfont.eot.woff*/) format('woff'), 
+url("montserrat-bold-webfont.eot.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-bold-webfont.eot.eot?#iefix*/) format('embedded-opentype'), 
+url("montserrat-bold-webfont.eot.ttf"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-bold-webfont.eot.ttf*/) format('truetype'), 
+url("montserrat-bold-webfont.eot.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-bold-webfont.eot.svg#webfont*/) format('svg'); 
+}
+
+@font-face{ 
+font-family:"MontserratRegular";
+src: url("montserrat-regular-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-regular-webfont.eot*/); 
+src: 
+url("montserrat-regular-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-regular-webfont.woff*/) format('woff'), 
+url("montserrat-regular-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-regular-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("montserrat-regular-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-regular-webfont.ttf*/) format('truetype'), 
+url("montserrat-regular-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/Montserrat/montserrat-regular-webfont.svg#webfont*/) format('svg'); 
+}
+
+/*--------------------------------------------------------*/
+/* Font: Open Sans Family */
+/* Source: Google Web Fonts Library */
+/* License Type: GPL */
+/*--------------------------------------------------------*/
+@font-face{ 
+font-family:"OpenSansRegular";
+src: url("OpenSans-Regular-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Regular-webfont.eot*/); 
+src: 
+url("OpenSans-Regular-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Regular-webfont.woff*/) format('woff'), 
+url("OpenSans-Regular-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Regular-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("OpenSans-Regular-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Regular-webfont.ttf*/) format('truetype'), 
+url("OpenSans-Regular-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Regular-webfont.svg#webfont*/) format('svg'); 
+}
+
+@font-face{ 
+font-family:"OpenSansItalic";
+src: url("OpenSans-Italic-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Italic-webfont.eot*/); 
+src: 
+url("OpenSans-Italic-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Italic-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("OpenSans-Italic-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Italic-webfont.woff*/) format('woff'), 
+url("OpenSans-Italic-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Italic-webfont.ttf*/) format('truetype'), 
+url("OpenSans-Italic-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Italic-webfont.svg#webfont*/) format('svg'); 
+}
+
+@font-face{ 
+font-family:"OpenSansBold";
+src: url("OpenSans-Bold-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Bold-webfont.eot*/); 
+src: 
+url("OpenSans-Bold-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Bold-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("OpenSans-Bold-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Bold-webfont.woff*/) format('woff'), 
+url("OpenSans-Bold-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Bold-webfont.ttf*/) format('truetype'), 
+url("OpenSans-Bold-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Bold-webfont.svg#webfont*/) format('svg'); 
+}
+
+@font-face{ 
+font-family:"OpenSansLight";
+src: url("OpenSans-Light-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Light-webfont.eot*/); 
+src: 
+url("OpenSans-Light-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Light-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("OpenSans-Light-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Light-webfont.woff*/) format('woff'), 
+url("OpenSans-Light-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Light-webfont.ttf*/) format('truetype'), 
+url("OpenSans-Light-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-Light-webfont.svg#webfont*/) format('svg'); 
+}
+
+@font-face{ 
+font-family:"OpenSansLightItalic";
+src: url("OpenSans-LightItalic-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-LightItalic-webfont.eot*/); 
+src: 
+url("OpenSans-LightItalic-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-LightItalic-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("OpenSans-LightItalic-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-LightItalic-webfont.woff*/) format('woff'), 
+url("OpenSans-LightItalic-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-LightItalic-webfont.ttf*/) format('truetype'), 
+url("OpenSans-LightItalic-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/OpenSans/OpenSans-LightItalic-webfont.svg#webfont*/) format('svg'); 
+}
+
+/*--------------------------------------------------------*/
+/* Font: Raleway Family */
+/* Source: FontSquirrel Library */
+/* License Type: GPL */
+/*--------------------------------------------------------*/
+@font-face{ 
+font-family:"RalewayRegular";
+src: url("Raleway-Regular-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Regular-webfont.eot*/); 
+src: 
+url("Raleway-Regular-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Regular-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("Raleway-Regular-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Regular-webfont.woff*/) format('woff'), 
+url("Raleway-Regular-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Regular-webfont.ttf*/) format('truetype'), 
+url("Raleway-Regular-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Regular-webfont.svg#webfont*/) format('svg'); 
+}
+@font-face{ 
+font-family:"RalewayLight";
+src: url("Raleway-Light-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Light-webfont.eot*/); 
+src: 
+url("Raleway-Light-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Light-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("Raleway-Light-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Light-webfont.woff*/) format('woff'), 
+url("Raleway-Light-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Light-webfont.ttf*/) format('truetype'), 
+url("Raleway-Light-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Light-webfont.svg#webfont*/) format('svg'); 
+}
+@font-face{ 
+font-family:"RalewayBold";
+src: url("Raleway-Bold-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Bold-webfont.eot*/); 
+src: 
+url("Raleway-Bold-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Bold-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("Raleway-Bold-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Bold-webfont.woff*/) format('woff'), 
+url("Raleway-Bold-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Bold-webfont.ttf*/) format('truetype'), 
+url("Raleway-Bold-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Bold-webfont.svg#webfont*/) format('svg'); 
+}
+@font-face{ 
+font-family:"RalewayThin";
+src: url("Raleway-Thin-webfont.eot"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Thin-webfont.eot*/); 
+src: 
+url("Raleway-Thin-webfont.eot-#iefix"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Thin-webfont.eot?#iefix*/) format('embedded-opentype'), 
+url("Raleway-Thin-webfont.woff"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Thin-webfont.woff*/) format('woff'), 
+url("Raleway-Thin-webfont.ttf"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Thin-webfont.ttf*/) format('truetype'), 
+url("Raleway-Thin-webfont.svg#webfont"/*tpa=http://www.designova.net/saga/fonts/raleway/Raleway-Thin-webfont.svg#webfont*/) format('svg'); 
+}
