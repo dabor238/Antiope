@@ -180,7 +180,7 @@ var player, OKEvents, options;
     onPlay: null,
     onPause: null,
     buffering: null,
-    controls: true,
+    controls: false,
     autoplay: true,
     annotations: true,
     cued: null
